@@ -1,0 +1,19 @@
+<acceptance-test-run title="Choose menu dinner day" name="choose_menu_dinner_day" steps="2" successful="2" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="39513" timestamp="2015-05-07T12:09:22.582+03:00">
+  <user-story id="com.frolova.features.createmenu.CreateMenuDayStory" name="Create menu day story" path="com.frolova.features.createmenu"/>
+  <tags>
+    <tag name="Createmenu" type="feature"/>
+    <tag name="Create menu day story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="29224">
+    <screenshots>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the menu page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="9876">
+    <screenshots>
+      <screenshot image="535f38ddf90dc38aa4d42acd94e39deb_NONE.png"/>
+    </screenshots>
+    <description>Open create menu dinner day</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,19 @@
+<acceptance-test-run title="Correct sign in" name="correct_signIn" steps="2" successful="2" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="28074" timestamp="2015-05-06T11:23:01.654+03:00">
+  <user-story id="com.frolova.features.signIn.SignInStory" name="Sign in story" path="com.frolova.features.signIn"/>
+  <tags>
+    <tag name="Sign in" type="feature"/>
+    <tag name="Sign in story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="15029">
+    <screenshots>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the sign page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="12942">
+    <screenshots>
+      <screenshot image="6c42e87d132d9dbe28ad0d52ce476bf4_NONE.png"/>
+    </screenshots>
+    <description>Sign in</description>
+  </test-step>
+</acceptance-test-run>

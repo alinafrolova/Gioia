@@ -1,0 +1,27 @@
+<acceptance-test-run title="View ge of courses" name="view_ge_of_courses" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="21784" timestamp="2015-05-07T15:50:07.618+03:00">
+  <user-story id="com.frolova.features.recipe.AllRecipesStory" name="All recipes story" path="com.frolova.features.recipe"/>
+  <tags>
+    <tag name="Recipe" type="feature"/>
+    <tag name="All recipes story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="5713">
+    <screenshots>
+      <screenshot image="61feac0b3eaeeeb69a9a7e044ea6cf9e_NONE.png"/>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the recipe page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="8076">
+    <screenshots>
+      <screenshot image="cd547bad0c2777302950d60d8c086a7b_NONE.png"/>
+    </screenshots>
+    <description>View ge courses</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="7986">
+    <screenshots>
+      <screenshot image="8d6b6ca3b1ae3df6ece9016aa679c058_NONE.png"/>
+      <screenshot image="3dbc85f9d78be0640d23d23ad4f67ba9_NONE.png"/>
+    </screenshots>
+    <description>View all type of courses</description>
+  </test-step>
+</acceptance-test-run>

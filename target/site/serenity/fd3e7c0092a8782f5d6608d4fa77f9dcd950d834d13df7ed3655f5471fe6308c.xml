@@ -1,0 +1,27 @@
+<acceptance-test-run title="View ua me courses" name="view_ua_me_courses" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="21417" timestamp="2015-05-07T15:47:54.162+03:00">
+  <user-story id="com.frolova.features.recipe.AllRecipesStory" name="All recipes story" path="com.frolova.features.recipe"/>
+  <tags>
+    <tag name="Recipe" type="feature"/>
+    <tag name="All recipes story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="5673">
+    <screenshots>
+      <screenshot image="442813c1a08bbccd75fb10313a30bdc3_NONE.png"/>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the recipe page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="7913">
+    <screenshots>
+      <screenshot image="cd547bad0c2777302950d60d8c086a7b_NONE.png"/>
+    </screenshots>
+    <description>View me courses</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="7822">
+    <screenshots>
+      <screenshot image="4bb1530b247659da2065b894a52bc19a_NONE.png"/>
+      <screenshot image="0ba3607e72be3def163fecddf1735c02_NONE.png"/>
+    </screenshots>
+    <description>View all type of courses</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,19 @@
+<acceptance-test-run title="Correct registration" name="correct_registration" steps="2" successful="2" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="35232" timestamp="2015-05-06T10:19:49.790+03:00">
+  <user-story id="com.frolova.features.registration.RegistrationStory" name="Registration story" path="com.frolova.features.registration"/>
+  <tags>
+    <tag name="Registration" type="feature"/>
+    <tag name="Registration story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="18125">
+    <screenshots>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the home page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="16987">
+    <screenshots>
+      <screenshot image="6f7954fa2731ef2a1d2754956877fb8d_NONE.png"/>
+    </screenshots>
+    <description>Fill reg page</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,25 @@
+<acceptance-test-run title="Error login mail" name="error_login_mail" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="41340" timestamp="2015-05-06T10:36:00.442+03:00">
+  <user-story id="com.frolova.features.registration.RegistrationStory" name="Registration story" path="com.frolova.features.registration"/>
+  <tags>
+    <tag name="Registration" type="feature"/>
+    <tag name="Registration story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="20835">
+    <screenshots>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the home page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="16775">
+    <screenshots>
+      <screenshot image="fc7f0c396f25a35088184c1e69bfe51e_NONE.png"/>
+    </screenshots>
+    <description>Fill reg error mail</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3626">
+    <screenshots>
+      <screenshot image="fc7f0c396f25a35088184c1e69bfe51e_NONE.png"/>
+    </screenshots>
+    <description>Should see error mail: &lt;span class=&apos;step-parameter&apos;&gt;Введите корректный e-mail.&lt;/span&gt;</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,19 @@
+<acceptance-test-run title="Choose menu monday breakfast week" name="choose_menu_monday_breakfast_week" steps="2" successful="2" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="31843" timestamp="2015-05-07T12:25:07.367+03:00">
+  <user-story id="com.frolova.features.createmenu.CreateMenuWeekStory" name="Create menu week story" path="com.frolova.features.createmenu"/>
+  <tags>
+    <tag name="Createmenu" type="feature"/>
+    <tag name="Create menu week story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="19264">
+    <screenshots>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the menu page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="12465">
+    <screenshots>
+      <screenshot image="a9e4394bf670d7b6800a110d03a24aee_NONE.png"/>
+    </screenshots>
+    <description>Open create menu monday breakfast week</description>
+  </test-step>
+</acceptance-test-run>

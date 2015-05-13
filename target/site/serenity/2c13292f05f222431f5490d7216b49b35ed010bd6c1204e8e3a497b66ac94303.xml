@@ -1,0 +1,27 @@
+<acceptance-test-run title="View ch of courses" name="view_ch_of_courses" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="22261" timestamp="2015-05-07T15:47:09.064+03:00">
+  <user-story id="com.frolova.features.recipe.AllRecipesStory" name="All recipes story" path="com.frolova.features.recipe"/>
+  <tags>
+    <tag name="Recipe" type="feature"/>
+    <tag name="All recipes story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="6102">
+    <screenshots>
+      <screenshot image="dd670f214206262a2f844e63a0b00fc6_NONE.png"/>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the recipe page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="8195">
+    <screenshots>
+      <screenshot image="cd547bad0c2777302950d60d8c086a7b_NONE.png"/>
+    </screenshots>
+    <description>View ch courses</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="7927">
+    <screenshots>
+      <screenshot image="75329eb774e5f97a97b4ee8baac763df_NONE.png"/>
+      <screenshot image="684a36e2387ed3fc9eb8ffbd698bfb09_NONE.png"/>
+    </screenshots>
+    <description>View all type of courses</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,7 @@
+<acceptance-test-run title="Error login reg" name="error_login_reg" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="PENDING" result="PENDING" duration="125" timestamp="2015-05-06T10:11:51.200+03:00">
+  <user-story id="com.frolova.features.registration.RegistrationStory" name="Registration story" path="com.frolova.features.registration"/>
+  <tags>
+    <tag name="Registration" type="feature"/>
+    <tag name="Registration story" type="story"/>
+  </tags>
+</acceptance-test-run>

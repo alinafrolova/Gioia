@@ -1,0 +1,25 @@
+<acceptance-test-run title="Error sign in" name="error_signIn" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="31774" timestamp="2015-05-06T11:44:53.390+03:00">
+  <user-story id="com.frolova.features.signIn.SignInStory" name="Sign in story" path="com.frolova.features.signIn"/>
+  <tags>
+    <tag name="Sign in" type="feature"/>
+    <tag name="Sign in story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="16750">
+    <screenshots>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the sign page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="11434">
+    <screenshots>
+      <screenshot image="c9f356f026809ae86fb835d1210df601_NONE.png"/>
+    </screenshots>
+    <description>Sign in error</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3493">
+    <screenshots>
+      <screenshot image="c9f356f026809ae86fb835d1210df601_NONE.png"/>
+    </screenshots>
+    <description>Should see error: &lt;span class=&apos;step-parameter&apos;&gt;Вы ввели неверный логин и/или пароль&lt;/span&gt;</description>
+  </test-step>
+</acceptance-test-run>

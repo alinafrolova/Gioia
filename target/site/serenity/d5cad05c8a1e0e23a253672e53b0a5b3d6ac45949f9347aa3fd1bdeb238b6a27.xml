@@ -1,0 +1,20 @@
+<acceptance-test-run title="Choose menu super day" name="choose_menu_super_day" steps="2" successful="2" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="16039" timestamp="2015-05-07T12:10:20.234+03:00">
+  <user-story id="com.frolova.features.createmenu.CreateMenuDayStory" name="Create menu day story" path="com.frolova.features.createmenu"/>
+  <tags>
+    <tag name="Createmenu" type="feature"/>
+    <tag name="Create menu day story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="7146">
+    <screenshots>
+      <screenshot image="2ac9b73ab85948ef3172d3ad0c4942a3_NONE.png"/>
+      <screenshot image="0d9430b40a854b3e24bab57a84684c76_NONE.png"/>
+    </screenshots>
+    <description>Is the menu page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="8877">
+    <screenshots>
+      <screenshot image="ddf3e8332d4dd5ad41bc8f53c2c7e7a3_NONE.png"/>
+    </screenshots>
+    <description>Open create menu super day</description>
+  </test-step>
+</acceptance-test-run>
